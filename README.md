@@ -1,1 +1,7 @@
 # Healxpert
+
+'Health is wealth' is said by our elders, but in this world where people are 24x7 busy with some or the other work. They rarely get time to do something about their own health.Ignoring ones health can be one of the biggest mistakes that one could make, as if ones health continues to degrade, he/she wont be able to do anything efficiently anymore. To solve this problem we have decided to make something that can help people improve their health in the least possible time possible. Healxpert is a website that helps our users to keep them fit and healthy in the most efficient way.
+
+Our projects name is HEALXPERT. Its main objective is to make its user fit, healthy and to keep him/her in good shape as well. We have also made sure to keep different type of exercises and diet for different types of people with different body fat levels. If the user already knows his body fat level he can choose on his own if he wants to gain weight or loose weight.
+
+The website has 3 different sections for the user.If the user doesn't know his body fat percentage he/she can use the first section and input his/her weight and height and they will receive their BMI and according to the BMI they receive they will also get some quick tips for their body.The second and the third section are made such that the user himself/herself can choose according to their own free will , if they want to loose weight or gain weight and then get the exercises accordingly.
